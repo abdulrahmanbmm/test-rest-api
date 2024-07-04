@@ -51,7 +51,7 @@ POST api/products
 title/body
 ```
 
-### Update article
+### Update product
 ``` bash
 PUT api/products/{id}
 ```
